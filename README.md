@@ -6,7 +6,7 @@ Please join us at [CS15, CS Department](https://goo.gl/maps/JnFCG5fuqJKD4TH99) f
 
 ## Sessions
 
-| Session | Date           | Description                                               | Description          | Session Notes/Slides | Recording     |
+| Session | Date           | Description                                         | Topics            | Session Notes/Slides | Recording     |
 | :-----: | :------------  | :-------------------------------------------------- | :---------------- | :------------------- | :------------- |
 | A Gentle Introduction to GANs | Saturday, September 17th, 5:15 PM to 7:15 PM | Ever wondered about the how and why of GANs? We’ll be busting all the jargon surrounding GANs, and this easy-to-follow session will have you training your own GAN in no time! | Introduction to GANs, DCGAN | To be updated | To be updated |
 | Are GANs all you need? | Sunday, September 18th, 3:00 PM to 5:00 PM | Ever wondered what makes GANs so powerful? In this session, there’ll be an overview of different GAN architectures and their capabilities in downstream tasks. | To be updated | To be updated | To be updated |
