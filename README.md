@@ -2,6 +2,8 @@
 
 This repository contains all the slides/notes used during the sessions part of Epoch 1: GANs by The Analytics Club, CFI.
 
+All the recordings will be available on our Youtube Channel. 
+
 Please join us at [CS15, at CSB](https://goo.gl/maps/JnFCG5fuqJKD4TH99) for the sessions.
 
 ## Sessions
