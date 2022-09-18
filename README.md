@@ -2,7 +2,7 @@
 
 This repository contains all the slides/notes used during the sessions part of Epoch 1: GANs by The Analytics Club, CFI.
 
-Please join us at [CS15, CS Department](https://goo.gl/maps/JnFCG5fuqJKD4TH99) for the sessions.
+Please join us at [CS15, at CSB](https://goo.gl/maps/JnFCG5fuqJKD4TH99) for the sessions.
 
 ## Sessions
 
